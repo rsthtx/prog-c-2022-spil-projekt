@@ -6,6 +6,7 @@ Demo af spil projekt
 - mlogsted
 - M0RE4
 - Philip
+- Loefqvist
 
 ## Projektstyring
 
