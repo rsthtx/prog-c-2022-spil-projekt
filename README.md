@@ -7,7 +7,7 @@ Demo af spil projekt
 - M0RE4
 - Philip
 - Loefqvist
--lzrpi
+- lzrpi
 
 ## Projektstyring
 
