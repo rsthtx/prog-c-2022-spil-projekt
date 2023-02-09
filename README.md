@@ -5,7 +5,8 @@ Demo af spil projekt
 - stou
 - mlogsted
 - M0RE4
-- lzrpi
+- Philip
+- Loefqvist
 
 ## Projektstyring
 
