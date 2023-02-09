@@ -3,6 +3,8 @@ Demo af spil projekt
 
 ## Deltagere
 - stou
+- mlogsted
+- M0RE4
 - lzrpi
 
 ## Projektstyring
