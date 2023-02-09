@@ -3,7 +3,7 @@ Demo af spil projekt
 
 ## Deltagere
 - stou
-
+- lzrpi
 
 ## Projektstyring
 
