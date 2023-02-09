@@ -3,6 +3,7 @@ Demo af spil projekt
 
 ## Deltagere
 - stou
+- mlogsted
 
 
 ## Projektstyring
