@@ -10,4 +10,15 @@ Demo af spil projekt
 
 ## Projektstyring
 
-TBD
+### Done
+- [x] Setup shared git repository
+
+### In Progress
+- [ ] Projektstyring intro
+
+### Todo
+- [ ] create build for playtesting
+- [ ] add code structure to project
+
+### Icebox
+- [ ] Create game
