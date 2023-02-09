@@ -3,6 +3,7 @@ Demo af spil projekt
 
 ## Deltagere
 - stou
+- M0RE4
 
 
 ## Projektstyring
