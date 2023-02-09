@@ -1,6 +1,9 @@
 # prog-c-2022-spil-projekt
 Demo af spil projekt
 
+## Demo
+- Prøv [spillet i din browser](builds/web/)
+
 ## Deltagere
 - stou
 - mlogsted
@@ -14,9 +17,9 @@ Demo af spil projekt
 ### Done
 - [x] Setup shared git repository
 - [x] Change player color
+- [x] create build for playtesting
 
 ### In Progress
-- [x] create build for playtesting
 - [ ] Projektstyring intro
 
 ### Todo
