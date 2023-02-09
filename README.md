@@ -5,7 +5,7 @@ Demo af spil projekt
 - stou
 - mlogsted
 - M0RE4
-
+- Philip
 
 ## Projektstyring
 
