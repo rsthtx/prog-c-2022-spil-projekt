@@ -16,7 +16,7 @@ Demo af spil projekt
 - [x] Change player color
 
 ### In Progress
-- [ ] create build for playtesting
+- [x] create build for playtesting
 - [ ] Projektstyring intro
 
 ### Todo
