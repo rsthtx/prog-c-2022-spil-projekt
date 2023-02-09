@@ -4,6 +4,7 @@
 [ext_resource path="res://icon.png" type="Texture" id=2]
 
 [node name="Sprite" type="Sprite"]
+modulate = Color( 0.847059, 0.298039, 0.337255, 1 )
 position = Vector2( 488, 277 )
 texture = ExtResource( 2 )
 script = ExtResource( 1 )

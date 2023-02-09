@@ -13,6 +13,7 @@ Demo af spil projekt
 
 ### Done
 - [x] Setup shared git repository
+- [x] Change player color
 
 ### In Progress
 - [ ] Projektstyring intro
