@@ -16,10 +16,10 @@ Demo af spil projekt
 - [x] Change player color
 
 ### In Progress
+- [ ] create build for playtesting
 - [ ] Projektstyring intro
 
 ### Todo
-- [ ] create build for playtesting
 - [ ] add code structure to project
 
 ### Icebox
